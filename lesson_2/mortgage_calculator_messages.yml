@@ -1,0 +1,12 @@
+
+welcome: "Welcome to the Mortgage/ Car Loan Calculator! Enter your name:"
+valid_name: "Make sure to use a valid name."
+loan_amount: "Please enter your loan amount:"
+valid_number: "Hmm.. that doesn't look like a valid number.  
+Please enter a positive number."
+apr: "Please enter your APR:"
+monthly_loan_duration: "Please enter your loan duration in months:"
+another_calculation: "Do you want to perform another calculation? 
+(type yes to calculate again)"
+goodbye: "Thank you for using Calculator! Goodbye!"
+y_or_n: "Please type yes to do another calculation.  Type no to exit."
